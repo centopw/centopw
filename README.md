@@ -32,7 +32,7 @@
 <br />
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=centopw&show_icons=true&hide_border=true" />
 
 [website]: https://cento.pw
 [twitter]: https://twitter.com/cento_26
