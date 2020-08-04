@@ -36,5 +36,5 @@
 
 [website]: https://cento.pw
 [twitter]: https://twitter.com/cento_26
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/centopw
+[linkedin]: https://linkedin.com/in/cento
