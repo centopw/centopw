@@ -31,8 +31,9 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centopw&layout=compact&hide_border=true&theme=radical)](https://github.com/centopw)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=centopw&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=centopw&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://cento.pw
 [twitter]: https://twitter.com/cento_26
