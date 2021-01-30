@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Designer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer/designer
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
 
 ### Connect with me:
