@@ -12,6 +12,7 @@
 - ⚡  &nbsp; Fun fact: I love to draw and play guitar 
 
 <br />
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
@@ -35,6 +36,8 @@
 
 <br />
 <br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=centopw&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centopw&layout=compact&hide_border=true)](https://github.com/centopw)
 
