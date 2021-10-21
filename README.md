@@ -12,6 +12,13 @@
 - ⚡  &nbsp; Fun fact: I love to draw and play guitar 
 
 <br />
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+
+<br/>
 
 ### Languages and Tools:
 
