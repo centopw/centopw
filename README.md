@@ -1,4 +1,7 @@
 ### Hi there, I'm Hiep - aka [Cento][website] 👋
+<a href="www.linkedin.com/in/cento"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
+<a href="https://github.com/centopw"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
+
 
 ## I'm a Student, Developer, and Designer!
 - 🌱 I’m currently learning everything 🤣
