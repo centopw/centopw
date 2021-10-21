@@ -62,24 +62,11 @@
 </p>
 <br />
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-    <a href="#"><img alt="Cento's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centopw&layout=compact&hide_border=true&show_icons=true&theme=radical" height="192px"/></a>
-  <br/>
-    <a href="#"><img alt="Cento's Github Stats" src="https://github-readme-stats.vercel.app/api?username=centopw&count_private=true&hide_border=true&show_icons=true&theme=radical" height="192px"/></a>
-  <br/>
-   <a href="#"><img alt="Cento's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=centopw&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>  
-<details> 
-  <summary>💻 About</summary>
-    ![Metrics](https://metrics.lecoq.io/centopw?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon)
+## Stats
 
-  <br/>
-   </details>
-   
+![About](https://metrics.lecoq.io/centopw?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FSaigon)
 
+![Metrics](https://metrics.lecoq.io/centopw?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon)
 
 [website]: https://tanhiep.dev
 [twitter]: https://twitter.com/centoppw
