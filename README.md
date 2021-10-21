@@ -64,9 +64,9 @@
 
 ## Stats
 
-![Metrics](https://metrics.lecoq.io/centopw?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FSaigon)
+![About](https://metrics.lecoq.io/centopw?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FSaigon)
 
-![Metrics](https://metrics.lecoq.io/centopw?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon)
+!Achivements](https://metrics.lecoq.io/centopw?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon)
 
 [website]: https://tanhiep.dev
 [twitter]: https://twitter.com/centoppw
