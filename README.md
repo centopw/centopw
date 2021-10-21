@@ -6,19 +6,10 @@
 
 
 ### Glad to see you here!
-- I'm Study Computer Science at [HUTECH Institute of international education](https://hutech.edu.vn/quocte)
-- 👯 I’m looking to collaborate with other developer/designer
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar 
-
-### Connect with me:
-<a href="www.linkedin.com/in/cento"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
-<a href="https://github.com/centopw"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🏛 &nbsp; I'm Study Computer Science at [HUTECH Institute of international education](https://hutech.edu.vn/quocte)
+- 👯 &nbsp; I’m looking to collaborate with other developer/designer
+- 🥅 &nbsp; 2021 Goals: Contribute more to Open Source projects
+- ⚡  &nbsp; Fun fact: I love to draw and play guitar 
 
 <br />
 
