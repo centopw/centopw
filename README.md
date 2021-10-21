@@ -73,10 +73,12 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>  
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-    <a href="#"><img alt="Achievements" src="(https://metrics.lecoq.io/centopw?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon" height="192px"/></a>
+  <summary>💻 About</summary>
+    ![Metrics](https://metrics.lecoq.io/centopw?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon)
+
   <br/>
    </details>
+   
 
 
 [website]: https://tanhiep.dev
