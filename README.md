@@ -6,7 +6,7 @@
 
 
 ### Glad to see you here!
-- I'm Study Computer Science at [HUTECH Institute of international education][https://hutech.edu.vn/quocte]
+- I'm Study Computer Science at [HUTECH Institute of international education](https://hutech.edu.vn/quocte)
 - 👯 I’m looking to collaborate with other developer/designer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
