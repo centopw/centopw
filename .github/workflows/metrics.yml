@@ -1,7 +1,6 @@
 - name: Metrics embed
   uses: lowlighter/metrics@v3.14
 
-#Achivements 
 name: Metrics
 on:
   # Schedule updates (each hour)
