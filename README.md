@@ -37,9 +37,9 @@
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=centopw&count_private=true&hide_border=true&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centopw&layout=compact&hide_border=true&show_icons=true&theme=radical)](https://github.com/centopw)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=centopw&count_private=true&hide_border=true&show_icons=true&theme=radical)
 
 
 [website]: https://tanhiep.dev
