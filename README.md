@@ -37,11 +37,10 @@
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=centopw&count_private=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=centopw&count_private=true&hide_border=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centopw&layout=compact&hide_border=true&show_icons=true&theme=radical)](https://github.com/centopw)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=centopw&show_icons=true&hide_border=tru" />
 
 [website]: https://tanhiep.dev
 [twitter]: https://twitter.com/centoppw
