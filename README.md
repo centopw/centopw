@@ -62,11 +62,16 @@
 </p>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centopw&layout=compact&hide_border=true&show_icons=true&theme=radical)](https://github.com/centopw)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=centopw&count_private=true&hide_border=true&show_icons=true&theme=radical)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=centopw&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="#"><img alt="Cento's Github Stats" src="https://github-readme-stats.vercel.app/api?username=centopw&count_private=true&hide_border=true&show_icons=true&theme=radical" height="192px"/></a>
+  <a href="#"><img alt="Cento's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centopw&layout=compact&hide_border=true&show_icons=true&theme=radical" height="192px"/></a>
+  <br/>
+   <a href="#"><img alt="Cento's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=centopw&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
 [website]: https://tanhiep.dev
 [twitter]: https://twitter.com/centoppw
