@@ -73,6 +73,8 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>  
 
+<h3 align="center"> Metrics </h3>
+<img align="center" width="400" alt="🦑" src="metrics.github.svg">
 
 [website]: https://tanhiep.dev
 [twitter]: https://twitter.com/centoppw
