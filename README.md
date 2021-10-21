@@ -73,8 +73,8 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>  
 
-<h3 align="center"> Metrics </h3>
-<img align="center" width="400" alt="🦑" src="metrics.github.svg">
+![Metrics](https://metrics.lecoq.io/centopw?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon)
+
 
 [website]: https://tanhiep.dev
 [twitter]: https://twitter.com/centoppw
