@@ -1,5 +1,5 @@
 ### Hi there, I'm Hiep - aka [Cento][website] 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=centopw)](https://github.com/centopw/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=centopw&theme=onedark)](https://github.com/centopw/github-profile-trophy)
 
 
 ## I'm a Student, Developer, and Designer!
