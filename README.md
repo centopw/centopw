@@ -62,11 +62,6 @@
 </p>
 <br />
 
-## Stats
-
-![About](https://metrics.lecoq.io/centopw?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FSaigon)
-
-
 [website]: https://tanhiep.dev
 [twitter]: https://twitter.com/centoppw
 [instagram]: https://www.instagram.com/centopw
