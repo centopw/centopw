@@ -6,9 +6,9 @@
 
 
 ### Glad to see you here!
-- 🏛 &nbsp; I'm Study Computer Science at [HUTECH Institute of international education](https://hutech.edu.vn/quocte)
-- 👯 &nbsp; I’m looking to collaborate with other developer/designer
-- 🥅 &nbsp; 2021 Goals: Contribute more to Open Source projects
+- 🏛 &nbsp; I'm Study Computer Science at [HUTECH Institute of international education](https://hutech.edu.vn/quocte).
+- 👯 &nbsp; I’m looking to collaborate with other developer/designer.
+- 🥅 &nbsp; 2021 Goals: Contribute more to Open Source projects.
 - ⚡  &nbsp; Fun fact: First Linux distro is Ubuntu and have to reinstall just after 30 min of messing around :<
 
 <br />
