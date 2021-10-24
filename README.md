@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🛠️ My favorite tools
+## 🛠️ My favorite tools.
 
 ### 👨‍💻 Programming languages
 
