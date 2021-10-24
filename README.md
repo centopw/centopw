@@ -28,9 +28,9 @@
 ### Learning.
 
 <p>
-    <a href="#"><img alt="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"></a>
-    <a href="#"><img alt="EdX" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white"></a>
-    <a href="#"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></a>
+    <a href="#"><img alt="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A"></a>
+    <a href="#"><img alt="EdX" src="https://img.shields.io/badge/edX-%2302262B.svg?logo=edX&logoColor=white"></a>
+    <a href="#"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&logo=freecodecamp&logoColor=green"></a>
 </p>
 
 ### 👨‍💻 Programming languages
@@ -45,7 +45,7 @@
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -57,12 +57,12 @@
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
     <a href="#"><img alt="Cloudfare" src=https://img.shields.io/badge/Cloudflare-F38020?&logo=Cloudflare&logoColor=white""></a>
-    <a href="#"><img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"></a>
-    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
-    <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
-    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
+    <a href="#"><img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"></a>
+    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
+    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
 
     
 </p>
@@ -75,7 +75,7 @@
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -84,21 +84,21 @@
 ### Design Tool
  <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="After effect" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"></a>
-    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
-    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"></a>
-    <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
+    <a href="#"><img alt="After effect" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white"></a>
+    <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6"></a>
     
  </p>
  
  ### Gaming
  
  <p>
-    <a href="#"><img alt="Battle.net" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"></a>
-    <a href="#"><img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"></a>
-    <a href="#"><img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"></a>
-    <a href="#"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
-    <a href="#"><img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"></a>
+    <a href="#"><img alt="Battle.net" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white"></a>
+    <a href="#"><img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white"></a>
+    <a href="#"><img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?logo=epicgames&logoColor=white"></a>
+    <a href="#"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white"></a>
+    <a href="#"><img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?logo=Ubisoft&logoColor=black"></a>
  </p>
  
 <br />
