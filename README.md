@@ -23,7 +23,7 @@
 
 <br/>
 
-## 🛠️ My favorite tools.
+## 🛠️ My favorite tools:
 
 ### Learning.
 
