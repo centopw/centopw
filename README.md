@@ -33,7 +33,7 @@
     <a href="#"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&logo=freecodecamp&logoColor=green"></a>
 </p>
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming languages.
 
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
