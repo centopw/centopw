@@ -48,7 +48,7 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases and cloud hosting.
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
