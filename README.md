@@ -91,7 +91,7 @@
     
  </p>
  
- ### Gaming
+ ### Gaming.
  
  <p>
     <a href="#"><img alt="Battle.net" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white"></a>
