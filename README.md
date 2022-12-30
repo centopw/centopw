@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=centopw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+<h2 align="center">A passionate frontend developer from VietNam</h2>
+
 ## Hey👋, I'm Hiep - aka [Cento][website]. 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cento)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tanhiep.dev/)
