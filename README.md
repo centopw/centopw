@@ -16,7 +16,7 @@
 | 👨‍💻 Take a look at my website   | **[Portfolio](https://tanhiep.dev/)** |
 | 💬 Ask me about    | **Java, Html5, Css3, JavaScript, MySql, C, ...**                |
 | 📫 How to reach me    | **hello@tanhiep.dev**                |
-| 🥅 2023 Goals     |   **Focus on improving UI/UX knowleadge.** |
+| 🥅 2023 Goals     |   **Focus on improving Backend knowleadge.** |
 |         |                    |
 
 [![](https://visitcount.itsvg.in/api?id=centopw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
