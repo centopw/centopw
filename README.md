@@ -11,7 +11,7 @@
 
 |         |                    |
 | ------- | ------------------ |
-| 🔭 I’m currently working on   | **[React Stable Diffutsion.](https://github.com/centopw/React-Stable-Diffutsion)** |
+| 🔭 I’m currently working on   | **[Centix Development.](https://centixdevelopment.com)** |
 | 🌱 I’m currently learning   | **Computer Engineering**                |
 | 👨‍💻 Take a look at my website   | **[Portfolio](https://tanhiep.dev/)** |
 | 💬 Ask me about    | **Java, Html5, Css3, JavaScript, MySql, C, ...**                |
