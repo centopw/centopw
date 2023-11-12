@@ -9,15 +9,15 @@
 
 <div align="center">
 
-|         |                    |
-| ------- | ------------------ |
-| 🔭 I’m currently working on   | **[Centix Development.](https://centixdevelopment.com)** |
-| 🌱 I’m currently learning   | **Computer Engineering**                |
+|         |                      |
+| ------- | ------------------   |
+| 🔭 I’m currently working on    | **[Centix Development.](https://centixdevelopment.com)** |
+| 🌱 I’m currently learning      | **Computer Engineering**                |
 | 👨‍💻 Take a look at my website   | **[Portfolio](https://tanhiep.dev/)** |
-| 💬 Ask me about    | **Java, Html5, Css3, JavaScript, MySql, C, ...**                |
-| 📫 How to reach me    | **hello@tanhiep.dev**                |
-| 🥅 2023 Goals     |   **Focus on improving Backend knowleadge.** |
-|         |                    |
+| 💬 Ask me about                | **Java, Html5, Css3, JavaScript, MySql, C, ...**                |
+| 📫 How to reach me             | **tanhiep@duck.com**                |
+| 🥅 2023 Goals                  |   **Focus on improving Backend knowleadge.** |
+|                                |                      |
 
 [![](https://visitcount.itsvg.in/api?id=centopw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cento)
