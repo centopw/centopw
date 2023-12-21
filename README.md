@@ -13,7 +13,7 @@
 | ------- | ------------------   |
 | 🔭 I’m currently working on    | **[Centix Development.](https://centixdevelopment.com)** |
 | 🌱 I’m currently learning      | **Computer Engineering**                |
-| 👨‍💻 Take a look at my website   | **[Portfolio](https://tanhiep.dev/)** |
+| 👨‍💻 Take a look at my website   | **[My Blog](https://tanhiep.dev/)** |
 | 💬 Ask me about                | **Java, Html5, Css3, JavaScript, MySql, C, Python,...**                |
 | 📫 How to reach me             | **tanhiep@duck.com**                |
 | 🥅 2023 Goals                  |   **Focus on improving Backend knowleadge.** |
