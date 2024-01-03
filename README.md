@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=centopw&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=centopw&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&fire=EBEBEB&ring=EBEBEB" />
 </p>
 
 [website]: https://tanhiep.dev
