@@ -14,9 +14,9 @@
 | 🔭 I’m currently working on    | **[Centix Development.](https://centixdevelopment.com)** |
 | 🌱 I’m currently learning      | **Computer Engineering**                |
 | 👨‍💻 Take a look at my website   | **[My Blog](https://tanhiep.dev/)** |
-| 💬 Ask me about                | **Java, Html5, Css3, JavaScript, MySql, C, Python,...**                |
+| 💬 Ask me about                | **Python, JavaScript, Java, C,...**                |
 | 📫 How to reach me             | **tanhiep@duck.com**                |
-| 🥅 2023 Goals                  |   **Focus on improving Backend knowleadge.** |
+| 🥅 2024 Goals                  |   **Contribute more to Open Source Community** |
 |                                |                      |
 
 [![](https://visitcount.itsvg.in/api?id=centopw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
