@@ -11,7 +11,7 @@
 
 |         |                      |
 | ------- | ------------------   |
-| 🔭 I’m currently working on    | **[tanhiep.dev.](https://github.com/centopw/tanhiep.dev)** |
+| 🔭 I’m currently working on    | **[tanhiep.dev](https://github.com/centopw/tanhiep.dev)** |
 | 🌱 I’m currently learning      | **Computer Engineering**                |
 | 👨‍💻 Take a look at my website   | **[My Blog](https://tanhiep.dev/)** |
 | 💬 Ask me about                | **Python, JavaScript, Java, C,...**                |
