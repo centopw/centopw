@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Hiep+Nguyen+-+aka+Cento;Welcome+to+My+Github+profile!" alt="Typing SVG" /></a>
 </div>
 
-<h2 align="center">Tech enthusiast base in Vietnam, specializing in AI and frontend</h2>
+<h2 align="center">Tech enthusiast base in Vietnam, specializing in AI and frontend!!</h2>
 
 <div align="center">
 
