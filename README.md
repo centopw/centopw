@@ -16,7 +16,7 @@
 | 👨‍💻 Take a look at my website   | **[My Blog](https://tanhiep.dev/)** |
 | 💬 Ask me about                | **Python, JavaScript, Java, C,...**                |
 | 📫 How to reach me             | **tanhiep@duck.com**                |
-| 🥅 2024 Goals                  |   **Contribute to Open Source Community and AI project** |
+| 🥅 2024 Goals                  |   **One commit a day!!!** |
 |                                |                      |
 
 [![](https://visitcount.itsvg.in/api?id=centopw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
