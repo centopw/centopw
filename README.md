@@ -12,16 +12,12 @@
 |         |                      |
 | ------- | ------------------   |
 | 🔭 I’m currently working on    | **[tanhiep.dev](https://github.com/centopw/tanhiep.dev)** |
-| 🌱 I’m currently learning      | **Next.js**                |
+| 🌱 I’m currently learning      | **DEVops skill**                |
 | 👨‍💻 Take a look at my website   | **[My Blog](https://tanhiep.dev/)** |
 | 💬 Ask me about                | **Python, JavaScript, Java, C,...**                |
 | 📫 How to reach me             | **tanhiep@duck.com**                |
 | 🥅 2024 Goals                  |   **One commit a day!!!** |
-|                                |                      |
-
-[![](https://visitcount.itsvg.in/api?id=centopw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cento)
-[![Website Badge](https://img.shields.io/badge/Website-0d1117?style=flat&logo=google-chrome&logoColor=white)](https://tanhiep.dev/)
+|                                |                      |soogle-chrome&logoColor=white)](https://tanhiep.dev/)
   
 </div>
 
