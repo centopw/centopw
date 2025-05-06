@@ -19,47 +19,54 @@
 
 ## `> date`
 ```
-Current Date: {{ CURRENT_DATE }}
+Current Date: Tuesday, May 06, 2025 - 13:41:37 UTC
 ```
 
 ## `> whoami`
 ```
 > Creative Developer | Code Architect | Digital Explorer
 > Location: ./universe/earth
-> Status: {{ CURRENT_STATUS }}
+> Status: Debugging the universe since 1999
 ```
 
 ## `> uptime`
 ```
-GitHub activity in the last {{ DAYS_ACTIVE }} days:
-{{ ACTIVITY_GRAPH }}
+GitHub activity in the last 2833 days:
+       █       █          █   
+█    █ █       █   █  █   █   
+██   ███       █   ██ █   █ █ 
+██ █ ████  █   █   ██ ██  █ █ 
+██ ██████  ██  ██  ██ ██  █ █ 
+██ ██████  ██  ██ ███ ███ ███ 
+██ ██████████████ ███ ███████ 
+──────────────────────────────
 ```
 
 ## `> top`
 ```
 PROCESS MONITOR - ACTIVE PROJECTS:
 PID   PROJECT                CPU%   LAST COMMIT       STATUS
-1     tanhiep.dev            75%    {{ SITE_COMMIT }}  RUNNING
-2     {{ NEW_PROJECT }}      45%    {{ NEW_COMMIT }}   RUNNING
-3     ai-experiments         30%    {{ AI_COMMIT }}    SUSPENDED
-4     react-components       15%    {{ REACT_COMMIT }} IDLE
+1     tanhiep.dev            75%    May 07  RUNNING
+2     dev-dashboard      45%    May 06   RUNNING
+3     ai-experiments         30%    Apr 28    SUSPENDED
+4     react-components       15%    Apr 14 IDLE
 ```
 
 ## `> ls -la skills/`
 ```
 drwxr-xr-x  languages    Python, JavaScript, Java, C
-drwxr-xr-x  frameworks   {{ FRAMEWORKS }}
-drwxr-xr-x  tools        {{ TOOLS }}
-drwxr-xr-x  learning     {{ CURRENT_LEARNING }}
+drwxr-xr-x  frameworks   Express, Next.js, Spring Boot, Node.js
+drwxr-xr-x  tools        AWS, Webpack, Docker, CI/CD
+drwxr-xr-x  learning     System Design
 ```
 
 ## `> cat /dev/random | statistics`
 ```
 GITHUB STATS:
 ┌───────────────────────────┐
-│ Repos: {{ REPO_COUNT }}   │ Stars: {{ STAR_COUNT }}   │
-│ Commits: {{ COMMIT_COUNT }}│ PRs: {{ PR_COUNT }}       │
-│ Issues: {{ ISSUE_COUNT }}  │ Contribs: {{ CONTRIB }}   │
+│ Repos: 83   │ Stars: 13   │
+│ Commits: 3,500+│ PRs: 150+       │
+│ Issues: 75+  │ Contribs: 20+   │
 └───────────────────────────┘
 ```
 
@@ -74,7 +81,7 @@ GITHUB STATS:
 ## `> fortune | cowsay`
 ```
  _________________________________________
-/ {{ RANDOM_QUOTE }}                      \
+/ The only way to learn a new programming language is by writing programs in it.                      \
 \_________________________________________/
         \   ^__^
          \  (oo)\_______
