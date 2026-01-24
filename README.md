@@ -17,24 +17,20 @@ I deliver complete packages that turn visitors into customers:
 - Set up CI/CD and basic infra/monitoring for reliability
 - Integrate practical AI/LLM features where they add real value
 
-_See **“Selected work”** and case studies on [tanhiep.dev](https://tanhiep.dev)._
 
 ## Selected work
 - StartUpConnect — Founder–talent platform with integrated AI (LLM)
   - Ownership: End‑to‑end product, UX/UI design, frontend, backend, and deployment
   - AI: LLM‑powered research and feedback assistant that analyzes founder ideas and surfaces insights
   - Focus: Clear onboarding, profiles, discovery/search, and messaging foundations aligned to conversion
-  - Overview/case study: [tanhiep.dev](https://tanhiep.dev)
 
 - Sonata Resort & Spa — Marketing/landing website
   - Ownership: UX/UI design and full development
   - Focus: Mobile‑first experience, speed, accessibility, SEO, and lead capture
-  - Case study and visuals: [tanhiep.dev](https://tanhiep.dev)
 
 - VDBC — Landing pages
   - Ownership: Development by me; UI design by a dedicated designer
   - Focus: Value messaging clarity, fast load, SEO basics, analytics instrumentation
-  - Overview: [tanhiep.dev](https://tanhiep.dev)
 
 ## Why hire me
 - Design + engineering in one: I can own UX/UI and code, keeping brand and performance aligned.
