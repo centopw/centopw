@@ -1,51 +1,39 @@
-# Hi, I'm Tan Hiep (Cento)
+# Hi, I'm Hiep Nguyen (Cento) 👋
 
-Frontend Engineer • AI Product Builder • Based in Vietnam (UTC+7)
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue?style=flat-square" alt="Role">
+  <img src="https://img.shields.io/badge/Location-Vietnam%20(UTC%2B7)-brightgreen?style=flat-square" alt="Location">
+  <a href="https://tanhiep.dev"><img src="https://img.shields.io/badge/Portfolio-tanhiep.dev-purple?style=flat-square" alt="Website"></a>
+</p>
 
-- Website: [tanhiep.dev](https://tanhiep.dev)
-- Email: [tanhiep@duck.com](mailto:tanhiep@duck.com)
-- LinkedIn: [linkedin.com/in/cento](https://linkedin.com/in/cento)
+I’m a product-minded engineer who bridges the gap between design and infrastructure. I love taking raw ideas, designing the UX, writing the frontend, and deploying them with practical AI features. 
 
-## Who I am
-I’m an innovative, hands‑on builder who enjoys taking products from idea to launch. Outside of code I tinker with 3D printing and design (graphics/branding). That mix helps me see problems from multiple angles—product, UX, visual, and technical—and spot opportunities early.
+---
 
-## What I do
-I deliver complete packages that turn visitors into customers:
-- Design UX/UI and brand‑consistent visuals when needed
-- Build fast, maintainable frontends (React/Next.js or modern web stacks)
-- Optimize performance, SEO, accessibility, and analytics
-- Set up CI/CD and basic infra/monitoring for reliability
-- Integrate practical AI/LLM features where they add real value
+### Current Status
+
+```
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 90% Learning Proxmox & Homelab Setup
+[▓▓▓▓▓▓░░░░░░░░░░░░░░] 30% Mastering Kubernetes (K8s) Cluster Orchestration
+```
+
+---
+
+### Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend & AI** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-LLM%20Integrations-412991?style=flat-square&logo=openai&logoColor=white) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Hypervisors & K8s** | ![Proxmox](https://img.shields.io/badge/-Proxmox-E74C3C?style=flat-square&logo=proxmox&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) *(Learning)* |
 
 
-## Selected work
-- StartUpConnect — Founder–talent platform with integrated AI (LLM)
-  - Ownership: End‑to‑end product, UX/UI design, frontend, backend, and deployment
-  - AI: LLM‑powered research and feedback assistant that analyzes founder ideas and surfaces insights
-  - Focus: Clear onboarding, profiles, discovery/search, and messaging foundations aligned to conversion
+---
 
-- Sonata Resort & Spa — Marketing/landing website
-  - Ownership: UX/UI design and full development
-  - Focus: Mobile‑first experience, speed, accessibility, SEO, and lead capture
+### 🤝 Let's Connect
 
-- VDBC — Landing pages
-  - Ownership: Development by me; UI design by a dedicated designer
-  - Focus: Value messaging clarity, fast load, SEO basics, analytics instrumentation
+I'm open to frontend-focused or product builder roles (remote-friendly). Let's build something cool together.
 
-## Why hire me
-- Design + engineering in one: I can own UX/UI and code, keeping brand and performance aligned.
-- Conversion mindset: I optimize for outcomes (speed, clarity, leads/signups), not just stack choices.
-- End‑to‑end execution: From discovery and design to build, QA, deploy, and iteration.
-- Pragmatic AI: I integrate LLMs where they improve UX or productivity, with guardrails and evaluation in mind.
-
-## Skills
-- Languages: TypeScript/JavaScript, Python, Java, C
-- Frontend: React, Next.js, performance, accessibility, state management
-- Backend: Node.js/Express and REST APIs
-- DevOps: GitHub Actions, Docker, cloud deployments, basic monitoring
-- AI/LLM: API integrations, prompting, evaluation workflows
-- Tools: Git, Linux, VS Code
-
-## Contact
-Best way to reach me: [tanhiep@duck.com](mailto:tanhiep@duck.com).
-Open to frontend‑focused or product builder roles (remote‑friendly).
+[![Email](https://img.shields.io/badge/Email-tanhiep%40duck.com-red?style=flat-square&logo=maildotru&logoColor=white)](mailto:tanhiep@duck.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cento-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cento)
